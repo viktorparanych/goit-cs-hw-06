@@ -1,0 +1,4 @@
+mongodb_data/
+__pycache__/
+.DS_Store
+venv/goit-cs-hw-06
